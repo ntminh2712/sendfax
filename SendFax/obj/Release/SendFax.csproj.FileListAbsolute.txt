@@ -1,0 +1,4 @@
+E:\C#\SendFax\SendFax\SendFax\bin\Release\SendFax.exe.config
+E:\C#\SendFax\SendFax\SendFax\obj\Release\Interop.FAXCOMEXLib.dll
+E:\C#\SendFax\SendFax\SendFax\obj\Release\Interop.FAXCOMLib.dll
+E:\C#\SendFax\SendFax\SendFax\obj\Release\SendFax.csproj.ResolveComReference.cache

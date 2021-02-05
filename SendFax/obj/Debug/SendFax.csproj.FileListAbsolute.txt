@@ -1,0 +1,13 @@
+E:\C#\SendFax\SendFax\SendFax\bin\Debug\SendFax.exe.config
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\Interop.FAXCOMEXLib.dll
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.csproj.ResolveComReference.cache
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.Form1.resources
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.Properties.Resources.resources
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.csproj.GenerateResource.Cache
+E:\C#\SendFax\SendFax\SendFax\bin\Debug\SendFax.exe
+E:\C#\SendFax\SendFax\SendFax\bin\Debug\SendFax.pdb
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.exe
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.pdb
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\Interop.FAXCOMLib.dll
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.exe.licenses
+E:\C#\SendFax\SendFax\SendFax\obj\Debug\SendFax.csprojResolveAssemblyReference.cache
